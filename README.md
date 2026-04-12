@@ -7,9 +7,9 @@ It combines **market overview** (prices, rental trends, city comparisons, buildi
 The goal is to deliver **manager-ready insights** for recruiters, clients, and academic presentations.
 
 ---
-<img width="1417" height="792" alt="12" src="https://github.com/user-attachments/assets/3fd90dfe-5c9b-4951-87db-8265f6f91aa0" />
-<img width="1419" height="797" alt="13" src="https://github.com/user-attachments/assets/0c4bcbb4-b1e0-4ba3-8ddd-39327d7ba963" />
-<img width="1421" height="799" alt="14" src="https://github.com/user-attachments/assets/3d9ca08b-6666-46cf-a24f-db095e88b5c1" />
+<img width="1419" height="793" alt="12" src="https://github.com/user-attachments/assets/657c0e3c-9074-4019-8e0c-dd4a9c591650" />
+<img width="1416" height="796" alt="13" src="https://github.com/user-attachments/assets/7504b4db-1122-4910-b6a0-e94437bfcc41" />
+<img width="1420" height="796" alt="14" src="https://github.com/user-attachments/assets/2edd2dc9-bad5-4ec9-a655-fb91f938e2b9" />
 
 ---
 
