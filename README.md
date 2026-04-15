@@ -42,6 +42,8 @@ This query aggregates property data by country and city, calculating the average
 
 This comparison highlights how market dynamics differ across Europe, helping investors and analysts identify both luxury hubs and emerging affordable markets.
 
+---
+
 ## Question 2 : Which locations and property types have the highest average listing values?
 
 <img width="759" height="163" alt="Screenshot 2026-04-15 082350" src="https://github.com/user-attachments/assets/e3a290d9-4991-4453-a2aa-13ff1c372b61" />
@@ -56,6 +58,8 @@ This query ranks property types by average listing value across citie
 
 This breakdown helps investors understand which property categories dominate value in each city.
 
+---
+
 ## Question 3 : How do property characteristics such as size, bedrooms, bathrooms, and building age influence pricing?
 
 <img width="778" height="303" alt="Screenshot 2026-04-15 082908" src="https://github.com/user-attachments/assets/48e7abdf-e17a-403d-8554-b9818f6685c0" />
@@ -69,6 +73,8 @@ This query compares property features against pricing metrics.
 - Newer buildings show stronger values, while older properties may stay longer on the market unless upgraded.  
 
 This analysis helps investors understand how physical characteristics drive value, guiding decisions on whether to prioritize size, modernity, or location efficiency.
+
+---
 
 ## Question 4 : Do properties with premium amenities (parking, elevators, gyms, pools) command higher prices?
 
