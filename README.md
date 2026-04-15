@@ -56,6 +56,49 @@ This query ranks property types by average listing value across citie
 
 This breakdown helps investors understand which property categories dominate value in each city.
 
+## Question 3 : How do property characteristics such as size, bedrooms, bathrooms, and building age influence pricing?
+
+<img width="778" height="303" alt="Screenshot 2026-04-15 082908" src="https://github.com/user-attachments/assets/48e7abdf-e17a-403d-8554-b9818f6685c0" />
+
+**Explanation:**
+This query compares property features against pricing metrics.
+
+**Answer:**  
+- Larger homes with more bedrooms and bathrooms generally command higher sale prices.  
+- Price per square meter often peaks in smaller, centrally located apartments.  
+- Newer buildings show stronger values, while older properties may stay longer on the market unless upgraded.  
+
+This analysis helps investors understand how physical characteristics drive value, guiding decisions on whether to prioritize size, modernity, or location efficiency.
+
+## Question 4 : Do properties with premium amenities (parking, elevators, gyms, pools) command higher prices?
+
+<img width="497" height="383" alt="Screenshot 2026-04-15 083048" src="https://github.com/user-attachments/assets/cf2cade1-180e-4a77-9ef3-9ff65fb5d1c0" />
+
+**Explanation:**
+This query compares properties with premium amenities against standard listings.  
+
+**Answer:**
+- Premium properties show significantly higher average sale prices (€1,095,087 vs. €539,251).  
+- They also command higher price per square meter (5,248 vs. 4,460).  
+- The larger number of listings in the premium category suggests strong market demand for these features.  
+
+This analysis confirms that amenities such as parking, elevators, gyms, and pools add measurable value to properties, making them more attractive to buyers and investors.
+
+## Question 4 : Which cities might present the most attractive opportunities for real estate investors?
+
+<img width="543" height="220" alt="Screenshot 2026-04-15 083249" src="https://github.com/user-attachments/assets/69c06a8f-c375-449e-8241-421b5e73e0a5" />
+
+**Explanation:**
+This query compares cities based on average property prices, total units sold, and average days on market.  
+
+**Answer:**
+- Paris and Amsterdam show the highest property values but also longer market times, suggesting prestige markets with slower liquidity.  
+- Berlin and Madrid balance strong sales volumes with moderate prices, making them attractive for investors seeking both yield and turnover.  
+- Lisbon, Warsaw, and Prague present affordable entry points with steady activity, appealing to investors targeting emerging markets.  
+
+By combining price, demand (units sold), and liquidity (days on market), this analysis highlights both luxury hubs and growth-oriented cities, helping investors identify the most attractive opportunities across Europe.
+
+
 ---
 
 ## 📈 Key Features
