@@ -30,10 +30,12 @@ The goal is to deliver **manager-ready insights** for recruiters, clients, and a
 ---
 ## Question 1 : How do property prices and price per square meter vary across countries and cities?
 
-**Answer:**
+<img width="543" height="194" alt="Screenshot 2026-04-15 081453" src="https://github.com/user-attachments/assets/bb15c04f-9475-42e2-a13d-2e0c7dc557bb" />
 
 **Explanation:**
-This query aggregates property data by country and city, calculating the average property sale price and average price per square meter.  
+This query aggregates property data by country and city, calculating the average property sale price and average price per square meter.
+
+**Answer:**  
 - Paris and Amsterdam stand out with the highest property values and cost per square meter.  
 - Berlin, Rome, and Brussels show mid-range values, reflecting balanced markets.  
 - Cities like Lisbon and Warsaw present more affordable opportunities, with lower average prices and cost per square meter.  
