@@ -29,7 +29,7 @@ The goal is to deliver **manager-ready insights** for recruiters, clients, and a
 
 ---
 ## Question 1 : How do property prices and price per square meter vary across countries and cities?
-<img width="543" height="194" alt="Screenshot 2026-04-15 081453" src="https://github.com/user-attachments/assets/14e2f3ec-8385-4243-aa19-3f76b60c2c15" />
+
 **Answer:**
 
 **Explanation:**
